@@ -1,0 +1,46 @@
+body{
+    background-color: antiquewhite;
+}
+h1{
+    color: green;
+    background-color: lightblue;
+    text-align: center;
+    font-family: fantasy;
+    font-size: 2.5em;
+    font-style: italic;
+    font-weight: bold;
+    text-decoration: underline;
+}
+#imgTitulo{
+    float: left;
+    display: inline-block;
+    width: 25%;
+}
+#txtTitulo{
+    display: inline-block;
+    width: 30%;
+    text-align: center;
+    margin: 50px;
+}
+#img2Titulo{
+    float: right;
+    display: inline-block;
+    width: 20%;
+}
+h2{
+    font-size: 25px;
+    font-family: sans-serif;
+}
+h3{
+    font-size: 20px;
+    font-family: sans-serif;
+    color: crimson;
+}
+p{
+    font-size: 18px;
+    font-family: sans-serif;
+}
+ul{
+    font-size: 18px;
+    font-family: sans-serif;
+}

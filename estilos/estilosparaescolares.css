@@ -1,0 +1,27 @@
+body{
+    background-color: antiquewhite;
+}
+#cabeza{
+    text-align: center;
+    font-size: 24px;
+    color: green;
+}
+ul{
+    display: inline-block;
+    float: left;
+    width: 200;
+    font-size: 22px;
+    color: crimson;
+    font-family: sans-serif
+}
+figure{
+    display: inline-block;
+    margin: 5px;
+    padding: 10px;
+    border: dashed;
+    border-color: black;
+}
+p{
+    color: black;
+    font-family: sans-serif;
+}

@@ -1,0 +1,29 @@
+body{
+    background-color: antiquewhite;
+}
+#img1{
+    display: inline-block;
+    width: 16%;
+    float: left;
+}
+#titulo{
+    display: inline-block;
+    width: 60%;
+    text-align: center;
+}
+#img2{
+    display: inline-block;
+    width: 9%;
+    text-align: right;
+}
+h2{
+    text-align: center;
+}
+#img3 img{
+    position: absolute;
+
+    width: 30%;
+    left: 35vw;
+    padding: 5px 5px;
+
+}
